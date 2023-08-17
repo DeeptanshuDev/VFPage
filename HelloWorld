@@ -1,0 +1,7 @@
+<apex:page >
+    <div style="text-align:center;">
+        Hello World<br/>
+        You name is <br/>
+        {!$User.FirstName}
+    </div>
+</apex:page>
